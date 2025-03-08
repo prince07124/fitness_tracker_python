@@ -6,14 +6,18 @@ This is a Streamlit-based web application that predicts the number of calories b
 
 🚀 Features
 1.User-Friendly UI - Enter details like age, height, weight, step count, and more.
+
 2.BMI Calculation - Automatically computes your Body Mass Index.
+
 3. AI-Powered Predictions - Uses a trained model to estimate calories burned.
+
 4. Comparison & Insights - See how your stats compare to others.
+
 5.Dynamic Styling - Animated gradient background for an engaging experience.
 
 🔧 Technologies Used
-Python (Streamlit, NumPy, Pandas, Scikit-learn)
-Machine Learning (Random Forest Regression)
+Python (Streamlit, NumPy, Pandas, Scikit-learn), 
+Machine Learning (Random Forest Regression) and
 Data Processing (CSV datasets for training & testing)
 
 📊 Data Sources
