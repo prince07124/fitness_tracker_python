@@ -1,5 +1,7 @@
 # fitness_tracker_python
  This is  an AI- based fitness tracker using Python to analyze user data like bmi , calories , physical activity etc. 
+
+
 This is a Streamlit-based web application that predicts the number of calories burned during exercise based on user input. It utilizes machine learning (Random Forest Regressor) to provide personalized fitness insights.
 
 🚀 Features
