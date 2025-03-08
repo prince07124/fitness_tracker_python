@@ -4,7 +4,7 @@
 
 This is a Streamlit-based web application that predicts the number of calories burned during exercise based on user input. It utilizes machine learning  to provide personalized fitness insights.
 
-#🚀 Features
+# 🚀 Features
 1.User-Friendly UI - Enter details like age, height, weight, step count, and more.
 
 2.BMI Calculation - Automatically computes your Body Mass Index.
@@ -15,12 +15,12 @@ This is a Streamlit-based web application that predicts the number of calories b
 
 5.Dynamic Styling - Animated gradient background for an engaging experience.
 
-#🔧 Technologies Used
+# 🔧 Technologies Used
 Python (Streamlit, NumPy, Pandas, Scikit-learn), 
 Machine Learning (Random Forest Regression) and
 Data Processing (CSV datasets for training & testing)
 
-#📊 Data Sources
+# 📊 Data Sources
 The model is trained using exercise.csv and calories.csv, which contain user activity details and calorie burn records.
 
 
