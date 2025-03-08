@@ -22,3 +22,19 @@ Data Processing (CSV datasets for training & testing)
 
 📊 Data Sources
 The model is trained using exercise.csv and calories.csv, which contain user activity details and calorie burn records.
+
+
+
+# Requirements 
+
+matplotlib==3.10.1
+
+numpy==2.2.3
+
+pandas==2.2.3
+
+scikit_learn==1.6.1
+
+seaborn==0.13.2
+
+streamlit==1.42.2
