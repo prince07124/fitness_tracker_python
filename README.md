@@ -40,5 +40,4 @@ seaborn==0.13.2
 streamlit==1.42.2
 
 
- # web appp link 
- https://fitnesstrackerpython-crhe5s9sbyuzrabybhxrjv.streamlit.app/
+ 
