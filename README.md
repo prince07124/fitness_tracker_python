@@ -38,3 +38,7 @@ scikit_learn==1.6.1
 seaborn==0.13.2
 
 streamlit==1.42.2
+
+
+ # web appp link 
+ https://fitnesstrackerpython-crhe5s9sbyuzrabybhxrjv.streamlit.app/
